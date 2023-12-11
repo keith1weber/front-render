@@ -1,4 +1,4 @@
-const URL = "https://trabalho-prog.onrender.com/veiculos"
+const URL = "https://trabalho-prog.onrender.com/veiculos/"
 var listaVeiculos = []
 
 function iniciarTabela(){
